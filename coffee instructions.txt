@@ -1,0 +1,2 @@
+cd to script location
+coffee --watch --compile filename.coffee

@@ -1,0 +1,54 @@
+/* theme changes */
+.pvtRows { background:#FFFF99; }
+.pvtCols { background:#339966; }
+.pvtVals { background:#009999; }
+
+.pvtFilterBox {
+    border-radius:25px;
+    overflow: hidden;
+    background:#ddd;
+}
+
+.pvtFilterBox p button {
+    background:white;
+    border-radius:5px;
+}
+
+.pvtFilterBox p input[type=text] {
+    display:none;
+}
+
+.pvtCheckContainer {
+    border: 1px solid #aaa;
+    background:white;
+    overflow-x:hidden;
+}
+
+#popupOK {
+    border: 1px solid green;
+    border-radius: 10px;
+    padding:5px;
+}
+
+#popupHeader {
+    background:orange;
+    padding:20px;
+/*
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px; 
+    padding:inherit;
+*/
+}
+
+.pvtFilterBox{
+/*    padding:20px;*/
+}
+
+.pvtUi {
+    border-spacing: 5px;
+    border-collapse: separate;
+}
+
+#topleft {
+    background: black;
+}
